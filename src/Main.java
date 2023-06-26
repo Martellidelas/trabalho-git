@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Arquivo princiapal");
+        System.out.println("Arquivo principal");
     }
 }
